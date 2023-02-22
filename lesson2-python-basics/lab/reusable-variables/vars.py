@@ -6,7 +6,7 @@ def hello(name):
 
 
 name = sys.argv[1]
-hello()
+hello(name)
 
 
 # # local variable
