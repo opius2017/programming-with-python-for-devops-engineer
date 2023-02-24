@@ -1,0 +1,4 @@
+Flask
+
+# After writing all files to be installed here
+# You type 'pip install requirements' in the terminal
